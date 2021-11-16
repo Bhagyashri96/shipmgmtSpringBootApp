@@ -1,0 +1,6 @@
+1631714648806	Rename package 'com.example.demo.model'
+1631714786051	Rename package 'com.example.demo.pojo'
+1631714813491	Rename package 'com.example.demo.JPA'
+1631717060860	Rename type 'ServiceIfc'
+1631803908945	Move compilation unit
+1631803940326	Rename type 'MyException'
